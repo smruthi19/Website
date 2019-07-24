@@ -1,0 +1,53 @@
+body{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:20px;
+  font-style:none;
+  font-weight:normal;
+  background-image:url("bgimage.png");
+
+}
+
+#first{
+  font-family:"Stencil Std",fantasy;
+  color:purple;
+}
+#h1{
+  font-family: "Apple Chancery", cursive;
+  color: Green;
+}
+#second{
+  font-family:"Stencil Std",fantasy;
+  color: blue;
+}
+#third{
+  font-family:"Stencil Std",fantasy;
+  color: green;
+}
+#fourth{
+    font-family:"Stencil Std",fantasy;
+    color: green;
+  }
+#fifth{
+      font-family:"Stencil Std",fantasy;
+      color: green;
+    }
+.tab{
+  overflow:hidden;
+  border:1px solid #ccc
+  background-color:#f1f1f1
+
+}
+
+.tab button {
+  background-color: inherit;
+  float: left;
+  border:none;
+  outline:none;
+  cursor:pointer;
+  padding:14px 16px;
+  transition:0.3s;
+
+}
+
+/* margin:0;
+padding: 10% 20% 300px 40%; */
